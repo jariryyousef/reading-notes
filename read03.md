@@ -20,7 +20,7 @@ Stands for "Hypertext Markup Language." HTML is the language used to create webp
 
 Learn more :
 
-| Syntax      | 
+|   website and youtube chanel    | 
 | ----------- | 
 | [w3schools](https://www.w3schools.com/html/default.asp)      | 
 | [Youtube Chanel](https://www.youtube.com/user/OsamaElzero)   |
