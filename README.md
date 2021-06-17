@@ -6,5 +6,9 @@ A Software engineering fresh graduate from the hashemite University
 |---|--- |
 |Growth Mindset| [Growth Mindset](https://jariryyousef.github.io/readingnotes/) | 
 |read01.md | [markdown](https://jariryyousef.github.io/readingnotes/read01)|
+|read02.md | [git](https://jariryyousef.github.io/readingnotes/read02)|
+|read03.md | [html](https://jariryyousef.github.io/readingnotes/read03)|
+|read04.md | [javascript](https://jariryyousef.github.io/readingnotes/read04)|
+
 
   
