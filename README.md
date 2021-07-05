@@ -2,6 +2,8 @@ I'm yousef jariry,
 24 years old, 
 A Software engineering fresh graduate from the hashemite University
 
+### this is for 102
+
 |content|  link |
 |---|--- |
 |Growth Mindset| [Growth Mindset](https://jariryyousef.github.io/readingnotes/) | 
@@ -13,4 +15,10 @@ A Software engineering fresh graduate from the hashemite University
 |read06|[css](https://jariryyousef.github.io/readingnotes/read06)|
 |read04.md | [functions](https://jariryyousef.github.io/readingnotes/read07)|
 
-  
+### this is for 201
+
+  |content|
+|---|
+|[class01](https://jariryyousef.github.io/readingnotes/class01)|
+|[class02](https://jariryyousef.github.io/readingnotes/class02)|
+
