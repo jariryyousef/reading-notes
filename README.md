@@ -23,3 +23,21 @@ A Software engineering fresh graduate from the hashemite University
 |[class02](https://jariryyousef.github.io/readingnotes/class02)|
 |[class03](https://jariryyousef.github.io/readingnotes/class03)|
 |[class04](https://jariryyousef.github.io/readingnotes/class04)|
+|[class05](https://jariryyousef.github.io/readingnotes/class05)|
+|[class06](https://jariryyousef.github.io/readingnotes/class06)|
+|[class07](https://jariryyousef.github.io/readingnotes/class07)|
+|[class08](https://jariryyousef.github.io/readingnotes/class08)|
+|[class09](https://jariryyousef.github.io/readingnotes/class09)|
+|[class10](https://jariryyousef.github.io/readingnotes/class10)|
+|[class11](https://jariryyousef.github.io/readingnotes/class11)|
+|[class12](https://jariryyousef.github.io/readingnotes/class12)|
+|[class13](https://jariryyousef.github.io/readingnotes/class13)|
+|[class14a](https://jariryyousef.github.io/readingnotes/class14a)|
+|[class14b](https://jariryyousef.github.io/readingnotes/class14b)|
+
+
+### this is for 301
+
+  |content|
+|---|
+|[read01](https://jariryyousef.github.io/readingnotes/301read01)|
