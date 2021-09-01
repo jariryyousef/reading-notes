@@ -40,4 +40,5 @@ A Software engineering fresh graduate from the hashemite University
 
   |content|
 |---|
-|[read01](https://jariryyousef.github.io/readingnotes/301read01)|
+|[301read01](https://jariryyousef.github.io/readingnotes/301read01)|
+|[301read02](https://jariryyousef.github.io/readingnotes/301read02)|
