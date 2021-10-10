@@ -1,8 +1,6 @@
-I'm yousef jariry, 
-24 years old, 
-A Software engineering fresh graduate from the hashemite University
+# I'm yousef jariry, 24 years old, A Software engineering fresh graduate from the hashemite University
 
-### Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 |content|  link |
 |---|--- |
@@ -15,7 +13,7 @@ A Software engineering fresh graduate from the hashemite University
 |read06|[css](https://jariryyousef.github.io/readingnotes/read06)|
 |read04.md | [functions](https://jariryyousef.github.io/readingnotes/read07)|
 
-### Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
   |content|
 |---|
@@ -35,8 +33,7 @@ A Software engineering fresh graduate from the hashemite University
 |[class14a](https://jariryyousef.github.io/readingnotes/class14a)|
 |[class14b](https://jariryyousef.github.io/readingnotes/class14b)|
 
-
-### Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
   |content|
 |---|
@@ -56,3 +53,6 @@ A Software engineering fresh graduate from the hashemite University
 |[301read14](https://jariryyousef.github.io/readingnotes/301read14)|
 
 ## Code 401 - Advanced Software Development
+
+|[401read01](https://jariryyousef.github.io/readingnotes/401-read01)|
+
