@@ -54,5 +54,6 @@
 
 ## Code 401 - Advanced Software Development
 
-|[401read01](https://jariryyousef.github.io/reading-notes/401-read01)|
-
+|[401read01](https://jariryyousef.github.io/reading-notes/401/401-read01)|
+|[401read01](https://jariryyousef.github.io/reading-notes/401/401-read02)|
+|[401read01](https://jariryyousef.github.io/reading-notes/401/401-read03)|
