@@ -53,11 +53,13 @@
 |[301read14](https://jariryyousef.github.io/reading-notes/301read14)|
 
 ## Code 401 - Advanced Software Development
-
+|content|
+|---|
 |[401read01](https://jariryyousef.github.io/reading-notes/401/401-read01)|
 |[401read02](https://jariryyousef.github.io/reading-notes/401/401-read02)|
 |[401read03](https://jariryyousef.github.io/reading-notes/401/401-read03)|
 |[401read04](https://jariryyousef.github.io/reading-notes/401/401-read04)|
 |[401read05](https://jariryyousef.github.io/reading-notes/401/401-read05)|
 |[401read06](https://jariryyousef.github.io/reading-notes/401/401-read06)|
-[401read07](https://jariryyousef.github.io/reading-notes/401/401-read07)|
+|[401read07](https://jariryyousef.github.io/reading-notes/401/401-read07)|
+|[401read08](https://jariryyousef.github.io/reading-notes/401/401-read08)|
