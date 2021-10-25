@@ -66,3 +66,4 @@
 |[401read09](https://jariryyousef.github.io/reading-notes/401/401-read09)|
 |[401read10](https://jariryyousef.github.io/reading-notes/401/401-read10)|
 |[401read11](https://jariryyousef.github.io/reading-notes/401/401-read11)|
+|[401read12](https://jariryyousef.github.io/reading-notes/401/401-read12)|
