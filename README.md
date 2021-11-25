@@ -84,3 +84,4 @@
 |[401read32](https://jariryyousef.github.io/reading-notes/401/401-read32)|
 |[401read33](https://jariryyousef.github.io/reading-notes/401/401-read33)|
 |[401read34](https://jariryyousef.github.io/reading-notes/401/401-read34)|
+|[401read35](https://jariryyousef.github.io/reading-notes/401/401-read35)|
