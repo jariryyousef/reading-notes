@@ -91,4 +91,5 @@
 |[401read39](https://jariryyousef.github.io/reading-notes/401/401-read39)|
 |[401read40](https://jariryyousef.github.io/reading-notes/401/401-read40)|
 |[Pythonisms](https://jariryyousef.github.io/reading-notes/401/401-read42)|
-|[Ethics](https://jariryyousef.github.io/reading-notes/401/401-Ethics)|
+|[Ethics](https://jariryyousef.github.io/reading-notes/401/Ethics)|
+|[OSS-Contributions](https://jariryyousef.github.io/reading-notes/401/OSS-Contributions)|
